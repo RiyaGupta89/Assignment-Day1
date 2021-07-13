@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(74, 230, 183);
+}
+
+.App {
+  text-align: center;
+}
+
+.button {
+  margin-bottom: 9px;
+  background-color: #111;
+  color: #eee;
+  border: none;
+  padding: 10px 30px;
+}
+.button:hover {
+  background-color: rgb(58, 58, 58);
+}
+
+.image {
+  width: 500px;
+  object-fit: contain;
+}
+
+
